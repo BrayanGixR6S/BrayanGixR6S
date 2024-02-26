@@ -3,7 +3,7 @@
 <h1 align="center">Hola 👋, soy Brayan Aguirre</h1>
 <h3 align="center">Un estudiante apasionado por la Informática. Actualmente, estoy cursando 8vo semestre en el Instituto Tecnológico de Arandas. Me encanta aprender sobre nuevas tecnologías y estoy emocionado por contribuir al mundo de la programación.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Frasco**-
+- 🌱 Actualmente estoy aprendiendo **Flask**-
 
 📫 Cómo llegar a mí **brayan20145175@gmail.com**
 
